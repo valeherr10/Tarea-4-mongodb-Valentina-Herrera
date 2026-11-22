@@ -1,0 +1,419 @@
+[{
+  "_id": "C001",
+  "nombre": "Laura Rodríguez",
+  "email": "laura.rodriguez1@correo.com",
+  "ciudad": "Bucaramanga",
+  "edad": 50,
+  "fecha_registro": {
+    "$date": "2025-09-21T00:00:00.000Z"
+  },
+  "preferencias": [
+    "oficina"
+  ]
+},
+{
+  "_id": "C002",
+  "nombre": "Andrés Moreno",
+  "email": "andres.moreno2@correo.com",
+  "ciudad": "Pereira",
+  "edad": 54,
+  "fecha_registro": {
+    "$date": "2025-09-27T00:00:00.000Z"
+  },
+  "preferencias": [
+    "deporte",
+    "música",
+    "hogar inteligente"
+  ]
+},
+{
+  "_id": "C003",
+  "nombre": "Camila Sánchez",
+  "email": "camila.sanchez3@correo.com",
+  "ciudad": "Barranquilla",
+  "edad": 18,
+  "fecha_registro": {
+    "$date": "2025-10-03T00:00:00.000Z"
+  },
+  "preferencias": [
+    "fotografía"
+  ]
+},
+{
+  "_id": "C004",
+  "nombre": "Juan Rojas",
+  "email": "juan.rojas4@correo.com",
+  "ciudad": "Medellín",
+  "edad": 46,
+  "fecha_registro": {
+    "$date": "2025-01-27T00:00:00.000Z"
+  },
+  "preferencias": [
+    "música",
+    "programación",
+    "fotografía"
+  ]
+},
+{
+  "_id": "C005",
+  "nombre": "Valentina López",
+  "email": "valentina.lopez5@correo.com",
+  "ciudad": "Pereira",
+  "edad": 34,
+  "fecha_registro": {
+    "$date": "2025-06-12T00:00:00.000Z"
+  },
+  "preferencias": [
+    "programación",
+    "hogar inteligente"
+  ]
+},
+{
+  "_id": "C006",
+  "nombre": "Santiago Díaz",
+  "email": "santiago.diaz6@correo.com",
+  "ciudad": "Medellín",
+  "edad": 64,
+  "fecha_registro": {
+    "$date": "2025-06-03T00:00:00.000Z"
+  },
+  "preferencias": [
+    "hogar inteligente",
+    "fotografía",
+    "programación"
+  ]
+},
+{
+  "_id": "C007",
+  "nombre": "Mariana Sánchez",
+  "email": "mariana.sanchez7@correo.com",
+  "ciudad": "Cali",
+  "edad": 59,
+  "fecha_registro": {
+    "$date": "2025-12-23T00:00:00.000Z"
+  },
+  "preferencias": [
+    "fotografía",
+    "gaming",
+    "deporte"
+  ]
+},
+{
+  "_id": "C008",
+  "nombre": "Felipe Hernández",
+  "email": "felipe.hernandez8@correo.com",
+  "ciudad": "Manizales",
+  "edad": 45,
+  "fecha_registro": {
+    "$date": "2025-02-13T00:00:00.000Z"
+  },
+  "preferencias": [
+    "hogar inteligente",
+    "música",
+    "gaming"
+  ]
+},
+{
+  "_id": "C009",
+  "nombre": "Daniela Pérez",
+  "email": "daniela.perez9@correo.com",
+  "ciudad": "Manizales",
+  "edad": 43,
+  "fecha_registro": {
+    "$date": "2025-09-09T00:00:00.000Z"
+  },
+  "preferencias": [
+    "hogar inteligente",
+    "música"
+  ]
+},
+{
+  "_id": "C010",
+  "nombre": "Sebastián Ramírez",
+  "email": "sebastian.ramirez10@correo.com",
+  "ciudad": "Bogotá",
+  "edad": 54,
+  "fecha_registro": {
+    "$date": "2025-04-25T00:00:00.000Z"
+  },
+  "preferencias": [
+    "deporte"
+  ]
+},
+{
+  "_id": "C011",
+  "nombre": "Natalia Gómez",
+  "email": "natalia.gomez11@correo.com",
+  "ciudad": "Medellín",
+  "edad": 63,
+  "fecha_registro": {
+    "$date": "2025-10-14T00:00:00.000Z"
+  },
+  "preferencias": [
+    "oficina",
+    "música"
+  ]
+},
+{
+  "_id": "C012",
+  "nombre": "Carlos Moreno",
+  "email": "carlos.moreno12@correo.com",
+  "ciudad": "Barranquilla",
+  "edad": 25,
+  "fecha_registro": {
+    "$date": "2025-11-23T00:00:00.000Z"
+  },
+  "preferencias": [
+    "programación",
+    "música"
+  ]
+},
+{
+  "_id": "C013",
+  "nombre": "Sofía Vargas",
+  "email": "sofia.vargas13@correo.com",
+  "ciudad": "Cartagena",
+  "edad": 53,
+  "fecha_registro": {
+    "$date": "2025-07-22T00:00:00.000Z"
+  },
+  "preferencias": [
+    "hogar inteligente",
+    "programación"
+  ]
+},
+{
+  "_id": "C014",
+  "nombre": "Diego Ramírez",
+  "email": "diego.ramirez14@correo.com",
+  "ciudad": "Manizales",
+  "edad": 43,
+  "fecha_registro": {
+    "$date": "2025-07-07T00:00:00.000Z"
+  },
+  "preferencias": [
+    "deporte",
+    "fotografía"
+  ]
+},
+{
+  "_id": "C015",
+  "nombre": "Paula Gómez",
+  "email": "paula.gomez15@correo.com",
+  "ciudad": "Bogotá",
+  "edad": 27,
+  "fecha_registro": {
+    "$date": "2025-11-20T00:00:00.000Z"
+  },
+  "preferencias": [
+    "deporte",
+    "hogar inteligente"
+  ]
+},
+{
+  "_id": "C016",
+  "nombre": "Mateo Moreno",
+  "email": "mateo.moreno16@correo.com",
+  "ciudad": "Manizales",
+  "edad": 41,
+  "fecha_registro": {
+    "$date": "2025-04-09T00:00:00.000Z"
+  },
+  "preferencias": [
+    "música",
+    "deporte",
+    "hogar inteligente"
+  ]
+},
+{
+  "_id": "C017",
+  "nombre": "Isabella Castro",
+  "email": "isabella.castro17@correo.com",
+  "ciudad": "Manizales",
+  "edad": 45,
+  "fecha_registro": {
+    "$date": "2025-09-22T00:00:00.000Z"
+  },
+  "preferencias": [
+    "deporte"
+  ]
+},
+{
+  "_id": "C018",
+  "nombre": "Julián García",
+  "email": "julian.garcia18@correo.com",
+  "ciudad": "Bucaramanga",
+  "edad": 47,
+  "fecha_registro": {
+    "$date": "2025-02-15T00:00:00.000Z"
+  },
+  "preferencias": [
+    "programación",
+    "hogar inteligente",
+    "fotografía"
+  ]
+},
+{
+  "_id": "C019",
+  "nombre": "Gabriela Sánchez",
+  "email": "gabriela.sanchez19@correo.com",
+  "ciudad": "Cali",
+  "edad": 45,
+  "fecha_registro": {
+    "$date": "2025-12-16T00:00:00.000Z"
+  },
+  "preferencias": [
+    "programación"
+  ]
+},
+{
+  "_id": "C020",
+  "nombre": "Alejandro García",
+  "email": "alejandro.garcia20@correo.com",
+  "ciudad": "Manizales",
+  "edad": 41,
+  "fecha_registro": {
+    "$date": "2025-02-07T00:00:00.000Z"
+  },
+  "preferencias": [
+    "deporte",
+    "música",
+    "oficina"
+  ]
+},
+{
+  "_id": "C021",
+  "nombre": "Luisa Sánchez",
+  "email": "luisa.sanchez21@correo.com",
+  "ciudad": "Bogotá",
+  "edad": 23,
+  "fecha_registro": {
+    "$date": "2025-01-15T00:00:00.000Z"
+  },
+  "preferencias": [
+    "hogar inteligente",
+    "gaming",
+    "deporte"
+  ]
+},
+{
+  "_id": "C022",
+  "nombre": "Tomás Castro",
+  "email": "tomas.castro22@correo.com",
+  "ciudad": "Barranquilla",
+  "edad": 33,
+  "fecha_registro": {
+    "$date": "2025-02-20T00:00:00.000Z"
+  },
+  "preferencias": [
+    "deporte"
+  ]
+},
+{
+  "_id": "C023",
+  "nombre": "Manuela Ramírez",
+  "email": "manuela.ramirez23@correo.com",
+  "ciudad": "Cartagena",
+  "edad": 60,
+  "fecha_registro": {
+    "$date": "2025-11-12T00:00:00.000Z"
+  },
+  "preferencias": [
+    "gaming"
+  ]
+},
+{
+  "_id": "C024",
+  "nombre": "Esteban Hernández",
+  "email": "esteban.hernandez24@correo.com",
+  "ciudad": "Manizales",
+  "edad": 62,
+  "fecha_registro": {
+    "$date": "2025-12-05T00:00:00.000Z"
+  },
+  "preferencias": [
+    "oficina",
+    "música",
+    "hogar inteligente"
+  ]
+},
+{
+  "_id": "C025",
+  "nombre": "Carolina Martínez",
+  "email": "carolina.martinez25@correo.com",
+  "ciudad": "Cartagena",
+  "edad": 23,
+  "fecha_registro": {
+    "$date": "2025-07-22T00:00:00.000Z"
+  },
+  "preferencias": [
+    "oficina"
+  ]
+},
+{
+  "_id": "C026",
+  "nombre": "Nicolás Castro",
+  "email": "nicolas.castro26@correo.com",
+  "ciudad": "Cartagena",
+  "edad": 50,
+  "fecha_registro": {
+    "$date": "2025-07-13T00:00:00.000Z"
+  },
+  "preferencias": [
+    "hogar inteligente"
+  ]
+},
+{
+  "_id": "C027",
+  "nombre": "Juliana Castro",
+  "email": "juliana.castro27@correo.com",
+  "ciudad": "Barranquilla",
+  "edad": 42,
+  "fecha_registro": {
+    "$date": "2025-01-04T00:00:00.000Z"
+  },
+  "preferencias": [
+    "gaming",
+    "deporte"
+  ]
+},
+{
+  "_id": "C028",
+  "nombre": "David Rojas",
+  "email": "david.rojas28@correo.com",
+  "ciudad": "Bucaramanga",
+  "edad": 59,
+  "fecha_registro": {
+    "$date": "2025-06-25T00:00:00.000Z"
+  },
+  "preferencias": [
+    "gaming"
+  ]
+},
+{
+  "_id": "C029",
+  "nombre": "Ana Ramírez",
+  "email": "ana.ramirez29@correo.com",
+  "ciudad": "Manizales",
+  "edad": 38,
+  "fecha_registro": {
+    "$date": "2025-11-10T00:00:00.000Z"
+  },
+  "preferencias": [
+    "fotografía",
+    "gaming"
+  ]
+},
+{
+  "_id": "C030",
+  "nombre": "Miguel Sánchez",
+  "email": "miguel.sanchez30@correo.com",
+  "ciudad": "Manizales",
+  "edad": 54,
+  "fecha_registro": {
+    "$date": "2025-10-26T00:00:00.000Z"
+  },
+  "preferencias": [
+    "oficina"
+  ]
+}]

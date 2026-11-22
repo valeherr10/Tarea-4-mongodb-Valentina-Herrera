@@ -1,0 +1,1153 @@
+[{
+  "_id": "P001",
+  "nombre": "Lenovo IdeaPad 5",
+  "categoria": "Laptops",
+  "marca": "Lenovo",
+  "precio": 3299000,
+  "stock": 15,
+  "especificaciones": {
+    "ram_gb": 32,
+    "almacenamiento_gb": 1024,
+    "pantalla_pulg": 14
+  },
+  "etiquetas": [
+    "envío gratis"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C008",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C018",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C002",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C021",
+      "puntaje": 3
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P002",
+  "nombre": "HP Pavilion 15",
+  "categoria": "Laptops",
+  "marca": "HP",
+  "precio": 2604000,
+  "stock": 30,
+  "especificaciones": {
+    "ram_gb": 8,
+    "almacenamiento_gb": 1024,
+    "pantalla_pulg": 16
+  },
+  "etiquetas": [
+    "nuevo",
+    "envío gratis"
+  ],
+  "calificaciones": [],
+  "activo": true
+},
+{
+  "_id": "P003",
+  "nombre": "Asus VivoBook 14",
+  "categoria": "Laptops",
+  "marca": "Asus",
+  "precio": 4035000,
+  "stock": 52,
+  "especificaciones": {
+    "ram_gb": 8,
+    "almacenamiento_gb": 1024,
+    "pantalla_pulg": 16
+  },
+  "etiquetas": [
+    "nuevo",
+    "garantía extendida"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C013",
+      "puntaje": 4
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P004",
+  "nombre": "Dell Inspiron 3520",
+  "categoria": "Laptops",
+  "marca": "Dell",
+  "precio": 2860000,
+  "stock": 26,
+  "especificaciones": {
+    "ram_gb": 16,
+    "almacenamiento_gb": 1024,
+    "pantalla_pulg": 15.6
+  },
+  "etiquetas": [
+    "nuevo"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C006",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C015",
+      "puntaje": 5
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P005",
+  "nombre": "Apple MacBook Air M3",
+  "categoria": "Laptops",
+  "marca": "Apple",
+  "precio": 3684000,
+  "stock": 22,
+  "especificaciones": {
+    "ram_gb": 16,
+    "almacenamiento_gb": 512,
+    "pantalla_pulg": 15.6
+  },
+  "etiquetas": [
+    "envío gratis",
+    "garantía extendida"
+  ],
+  "calificaciones": [],
+  "activo": true
+},
+{
+  "_id": "P006",
+  "nombre": "Lenovo ThinkPad E14",
+  "categoria": "Laptops",
+  "marca": "Lenovo",
+  "precio": 2993000,
+  "stock": 56,
+  "especificaciones": {
+    "ram_gb": 32,
+    "almacenamiento_gb": 1024,
+    "pantalla_pulg": 15.6
+  },
+  "etiquetas": [],
+  "calificaciones": [
+    {
+      "cliente_id": "C001",
+      "puntaje": 2
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P007",
+  "nombre": "HP Victus 16",
+  "categoria": "Laptops",
+  "marca": "HP",
+  "precio": 5623000,
+  "stock": 36,
+  "especificaciones": {
+    "ram_gb": 16,
+    "almacenamiento_gb": 1024,
+    "pantalla_pulg": 15.6
+  },
+  "etiquetas": [
+    "nuevo",
+    "oferta"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C028",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C012",
+      "puntaje": 3
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P008",
+  "nombre": "Asus ZenBook 14",
+  "categoria": "Laptops",
+  "marca": "Asus",
+  "precio": 4553000,
+  "stock": 37,
+  "especificaciones": {
+    "ram_gb": 8,
+    "almacenamiento_gb": 1024,
+    "pantalla_pulg": 16
+  },
+  "etiquetas": [
+    "nuevo",
+    "más vendido"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C009",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C004",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C004",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C006",
+      "puntaje": 2
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P009",
+  "nombre": "Samsung Galaxy A55",
+  "categoria": "Celulares",
+  "marca": "Samsung",
+  "precio": 2156000,
+  "stock": 0,
+  "especificaciones": {
+    "ram_gb": 4,
+    "almacenamiento_gb": 256,
+    "bateria_mah": 5500
+  },
+  "etiquetas": [
+    "oferta",
+    "más vendido"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C019",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C010",
+      "puntaje": 4
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P010",
+  "nombre": "Xiaomi Redmi Note 13",
+  "categoria": "Celulares",
+  "marca": "Xiaomi",
+  "precio": 1127000,
+  "stock": 0,
+  "especificaciones": {
+    "ram_gb": 6,
+    "almacenamiento_gb": 256,
+    "bateria_mah": 5000
+  },
+  "etiquetas": [
+    "más vendido"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C001",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C004",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C001",
+      "puntaje": 4
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P011",
+  "nombre": "Apple iPhone 15",
+  "categoria": "Celulares",
+  "marca": "Apple",
+  "precio": 5308000,
+  "stock": 38,
+  "especificaciones": {
+    "ram_gb": 4,
+    "almacenamiento_gb": 128,
+    "bateria_mah": 5500
+  },
+  "etiquetas": [
+    "más vendido"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C020",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C030",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C011",
+      "puntaje": 3
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P012",
+  "nombre": "Motorola Moto G84",
+  "categoria": "Celulares",
+  "marca": "Motorola",
+  "precio": 1602000,
+  "stock": 45,
+  "especificaciones": {
+    "ram_gb": 12,
+    "almacenamiento_gb": 256,
+    "bateria_mah": 5500
+  },
+  "etiquetas": [
+    "garantía extendida"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C013",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C027",
+      "puntaje": 4
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P013",
+  "nombre": "Samsung Galaxy S24",
+  "categoria": "Celulares",
+  "marca": "Samsung",
+  "precio": 4264000,
+  "stock": 58,
+  "especificaciones": {
+    "ram_gb": 4,
+    "almacenamiento_gb": 512,
+    "bateria_mah": 5500
+  },
+  "etiquetas": [],
+  "calificaciones": [
+    {
+      "cliente_id": "C023",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C010",
+      "puntaje": 2
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P014",
+  "nombre": "Xiaomi Poco X6",
+  "categoria": "Celulares",
+  "marca": "Xiaomi",
+  "precio": 770000,
+  "stock": 36,
+  "especificaciones": {
+    "ram_gb": 8,
+    "almacenamiento_gb": 256,
+    "bateria_mah": 5000
+  },
+  "etiquetas": [
+    "nuevo"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C002",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C006",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C004",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C005",
+      "puntaje": 4
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P015",
+  "nombre": "Apple iPhone 14",
+  "categoria": "Celulares",
+  "marca": "Apple",
+  "precio": 5450000,
+  "stock": 10,
+  "especificaciones": {
+    "ram_gb": 8,
+    "almacenamiento_gb": 128,
+    "bateria_mah": 5000
+  },
+  "etiquetas": [
+    "envío gratis"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C013",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C025",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C022",
+      "puntaje": 3
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P016",
+  "nombre": "Motorola Edge 40",
+  "categoria": "Celulares",
+  "marca": "Motorola",
+  "precio": 838000,
+  "stock": 44,
+  "especificaciones": {
+    "ram_gb": 6,
+    "almacenamiento_gb": 128,
+    "bateria_mah": 5500
+  },
+  "etiquetas": [
+    "garantía extendida",
+    "envío gratis"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C026",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C008",
+      "puntaje": 2
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P017",
+  "nombre": "Sony WH-1000XM5",
+  "categoria": "Audio",
+  "marca": "Sony",
+  "precio": 1225000,
+  "stock": 32,
+  "especificaciones": {
+    "tipo": "diadema",
+    "bluetooth": true,
+    "autonomia_h": 20
+  },
+  "etiquetas": [
+    "más vendido"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C005",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C027",
+      "puntaje": 3
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P018",
+  "nombre": "JBL Tune 520BT",
+  "categoria": "Audio",
+  "marca": "JBL",
+  "precio": 1454000,
+  "stock": 0,
+  "especificaciones": {
+    "tipo": "parlante",
+    "bluetooth": true,
+    "autonomia_h": 8
+  },
+  "etiquetas": [
+    "más vendido",
+    "garantía extendida"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C025",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C002",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C021",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C016",
+      "puntaje": 2
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P019",
+  "nombre": "Bose QuietComfort 45",
+  "categoria": "Audio",
+  "marca": "Bose",
+  "precio": 927000,
+  "stock": 47,
+  "especificaciones": {
+    "tipo": "diadema",
+    "bluetooth": true,
+    "autonomia_h": 12
+  },
+  "etiquetas": [
+    "nuevo"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C027",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C011",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C012",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C015",
+      "puntaje": 5
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P020",
+  "nombre": "Xiaomi Redmi Buds 5",
+  "categoria": "Audio",
+  "marca": "Xiaomi",
+  "precio": 1308000,
+  "stock": 21,
+  "especificaciones": {
+    "tipo": "parlante",
+    "bluetooth": true,
+    "autonomia_h": 30
+  },
+  "etiquetas": [],
+  "calificaciones": [
+    {
+      "cliente_id": "C021",
+      "puntaje": 5
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P021",
+  "nombre": "JBL Flip 6",
+  "categoria": "Audio",
+  "marca": "JBL",
+  "precio": 101000,
+  "stock": 24,
+  "especificaciones": {
+    "tipo": "diadema",
+    "bluetooth": true,
+    "autonomia_h": 30
+  },
+  "etiquetas": [
+    "envío gratis",
+    "oferta"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C003",
+      "puntaje": 4
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P022",
+  "nombre": "JBL Charge 5",
+  "categoria": "Audio",
+  "marca": "JBL",
+  "precio": 379000,
+  "stock": 47,
+  "especificaciones": {
+    "tipo": "in-ear",
+    "bluetooth": true,
+    "autonomia_h": 20
+  },
+  "etiquetas": [
+    "oferta",
+    "garantía extendida"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C007",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C019",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C013",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C018",
+      "puntaje": 3
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P023",
+  "nombre": "Sony SRS-XB13",
+  "categoria": "Audio",
+  "marca": "Sony",
+  "precio": 269000,
+  "stock": 11,
+  "especificaciones": {
+    "tipo": "parlante",
+    "bluetooth": true,
+    "autonomia_h": 8
+  },
+  "etiquetas": [
+    "envío gratis",
+    "más vendido"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C009",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C002",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C006",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C010",
+      "puntaje": 4
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P024",
+  "nombre": "Bose SoundLink Flex",
+  "categoria": "Audio",
+  "marca": "Bose",
+  "precio": 905000,
+  "stock": 14,
+  "especificaciones": {
+    "tipo": "in-ear",
+    "bluetooth": true,
+    "autonomia_h": 12
+  },
+  "etiquetas": [
+    "oferta",
+    "envío gratis"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C012",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C024",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C006",
+      "puntaje": 4
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P025",
+  "nombre": "LG UltraGear 27",
+  "categoria": "Monitores",
+  "marca": "LG",
+  "precio": 619000,
+  "stock": 58,
+  "especificaciones": {
+    "pulgadas": 29,
+    "resolucion": "1920x1080",
+    "hz": 75
+  },
+  "etiquetas": [],
+  "calificaciones": [
+    {
+      "cliente_id": "C022",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C027",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C003",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C010",
+      "puntaje": 3
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P026",
+  "nombre": "Samsung Odyssey G5",
+  "categoria": "Monitores",
+  "marca": "Samsung",
+  "precio": 1541000,
+  "stock": 10,
+  "especificaciones": {
+    "pulgadas": 29,
+    "resolucion": "1920x1080",
+    "hz": 165
+  },
+  "etiquetas": [],
+  "calificaciones": [
+    {
+      "cliente_id": "C016",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C028",
+      "puntaje": 2
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P027",
+  "nombre": "Asus TUF VG249",
+  "categoria": "Monitores",
+  "marca": "Asus",
+  "precio": 1765000,
+  "stock": 0,
+  "especificaciones": {
+    "pulgadas": 27,
+    "resolucion": "2560x1440",
+    "hz": 165
+  },
+  "etiquetas": [
+    "oferta",
+    "más vendido"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C030",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C004",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C027",
+      "puntaje": 4
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P028",
+  "nombre": "Dell P2422H",
+  "categoria": "Monitores",
+  "marca": "Dell",
+  "precio": 1948000,
+  "stock": 7,
+  "especificaciones": {
+    "pulgadas": 29,
+    "resolucion": "2560x1440",
+    "hz": 165
+  },
+  "etiquetas": [],
+  "calificaciones": [],
+  "activo": true
+},
+{
+  "_id": "P029",
+  "nombre": "LG UltraWide 29",
+  "categoria": "Monitores",
+  "marca": "LG",
+  "precio": 1448000,
+  "stock": 12,
+  "especificaciones": {
+    "pulgadas": 27,
+    "resolucion": "2560x1440",
+    "hz": 144
+  },
+  "etiquetas": [
+    "envío gratis"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C018",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C011",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C013",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C006",
+      "puntaje": 3
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P030",
+  "nombre": "Asus ProArt PA248",
+  "categoria": "Monitores",
+  "marca": "Asus",
+  "precio": 1962000,
+  "stock": 50,
+  "especificaciones": {
+    "pulgadas": 27,
+    "resolucion": "1920x1080",
+    "hz": 165
+  },
+  "etiquetas": [
+    "envío gratis"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C013",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C005",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C024",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C014",
+      "puntaje": 4
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P031",
+  "nombre": "Samsung Essential 24",
+  "categoria": "Monitores",
+  "marca": "Samsung",
+  "precio": 1618000,
+  "stock": 55,
+  "especificaciones": {
+    "pulgadas": 27,
+    "resolucion": "1920x1080",
+    "hz": 144
+  },
+  "etiquetas": [
+    "más vendido"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C018",
+      "puntaje": 4
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P032",
+  "nombre": "Dell S2721DS",
+  "categoria": "Monitores",
+  "marca": "Dell",
+  "precio": 1017000,
+  "stock": 19,
+  "especificaciones": {
+    "pulgadas": 24,
+    "resolucion": "2560x1440",
+    "hz": 75
+  },
+  "etiquetas": [
+    "garantía extendida"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C021",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C013",
+      "puntaje": 2
+    },
+    {
+      "cliente_id": "C018",
+      "puntaje": 4
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P033",
+  "nombre": "Mouse MX Master 3S Logitech",
+  "categoria": "Accesorios",
+  "marca": "Logitech",
+  "precio": 80000,
+  "stock": 45,
+  "especificaciones": {
+    "inalambrico": false,
+    "color": "gris"
+  },
+  "etiquetas": [
+    "garantía extendida"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C007",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C012",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C002",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C024",
+      "puntaje": 3
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P034",
+  "nombre": "Teclado Kumara K552 Redragon",
+  "categoria": "Accesorios",
+  "marca": "Redragon",
+  "precio": 323000,
+  "stock": 46,
+  "especificaciones": {
+    "inalambrico": true,
+    "color": "gris"
+  },
+  "etiquetas": [
+    "nuevo"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C019",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C027",
+      "puntaje": 5
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P035",
+  "nombre": "Mouse X200 HP",
+  "categoria": "Accesorios",
+  "marca": "HP",
+  "precio": 36000,
+  "stock": 4,
+  "especificaciones": {
+    "inalambrico": false,
+    "color": "gris"
+  },
+  "etiquetas": [],
+  "calificaciones": [],
+  "activo": true
+},
+{
+  "_id": "P036",
+  "nombre": "Webcam C920 Logitech",
+  "categoria": "Accesorios",
+  "marca": "Logitech",
+  "precio": 39000,
+  "stock": 0,
+  "especificaciones": {
+    "inalambrico": false,
+    "color": "gris"
+  },
+  "etiquetas": [],
+  "calificaciones": [
+    {
+      "cliente_id": "C017",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C020",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C003",
+      "puntaje": 3
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P037",
+  "nombre": "Base refrigerante Genius",
+  "categoria": "Accesorios",
+  "marca": "Genius",
+  "precio": 112000,
+  "stock": 23,
+  "especificaciones": {
+    "inalambrico": true,
+    "color": "negro"
+  },
+  "etiquetas": [],
+  "calificaciones": [
+    {
+      "cliente_id": "C007",
+      "puntaje": 3
+    },
+    {
+      "cliente_id": "C023",
+      "puntaje": 4
+    },
+    {
+      "cliente_id": "C003",
+      "puntaje": 5
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P038",
+  "nombre": "Teclado K380 Logitech",
+  "categoria": "Accesorios",
+  "marca": "Logitech",
+  "precio": 45000,
+  "stock": 19,
+  "especificaciones": {
+    "inalambrico": true,
+    "color": "negro"
+  },
+  "etiquetas": [
+    "oferta"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C018",
+      "puntaje": 3
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P039",
+  "nombre": "Mouse M170 Logitech",
+  "categoria": "Accesorios",
+  "marca": "Logitech",
+  "precio": 378000,
+  "stock": 23,
+  "especificaciones": {
+    "inalambrico": false,
+    "color": "blanco"
+  },
+  "etiquetas": [
+    "más vendido"
+  ],
+  "calificaciones": [
+    {
+      "cliente_id": "C020",
+      "puntaje": 5
+    },
+    {
+      "cliente_id": "C009",
+      "puntaje": 5
+    }
+  ],
+  "activo": true
+},
+{
+  "_id": "P040",
+  "nombre": "Diadema H390 Logitech",
+  "categoria": "Accesorios",
+  "marca": "Logitech",
+  "precio": 49000,
+  "stock": 43,
+  "especificaciones": {
+    "inalambrico": false,
+    "color": "gris"
+  },
+  "etiquetas": [
+    "nuevo"
+  ],
+  "calificaciones": [],
+  "activo": true
+},
+{
+  "_id": "P041",
+  "nombre": "Xiaomi Smart Band 9",
+  "categoria": "Accesorios",
+  "marca": "Xiaomi",
+  "precio": 189000,
+  "stock": 25,
+  "especificaciones": {
+    "inalambrico": true,
+    "color": "negro"
+  },
+  "etiquetas": [
+    "nuevo",
+    "temporal"
+  ],
+  "calificaciones": [],
+  "activo": true
+},
+{
+  "_id": "P042",
+  "nombre": "Soporte para portátil Genius",
+  "categoria": "Accesorios",
+  "marca": "Genius",
+  "precio": 65000,
+  "stock": 40,
+  "especificaciones": {
+    "inalambrico": false,
+    "color": "gris"
+  },
+  "etiquetas": [
+    "temporal"
+  ],
+  "calificaciones": [],
+  "activo": true
+}]

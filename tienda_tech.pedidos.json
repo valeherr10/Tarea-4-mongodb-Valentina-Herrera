@@ -1,0 +1,2864 @@
+[{
+  "_id": "PED0001",
+  "cliente_id": "C016",
+  "fecha": {
+    "$date": "2026-05-17T21:46:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P017",
+      "nombre": "Sony WH-1000XM5",
+      "cantidad": 1,
+      "precio_unitario": 1225000
+    },
+    {
+      "producto_id": "P030",
+      "nombre": "Asus ProArt PA248",
+      "cantidad": 2,
+      "precio_unitario": 1962000
+    }
+  ],
+  "total": 5149000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 56 # 75-7",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0002",
+  "cliente_id": "C027",
+  "fecha": {
+    "$date": "2026-10-03T21:32:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P005",
+      "nombre": "Apple MacBook Air M3",
+      "cantidad": 2,
+      "precio_unitario": 3684000
+    },
+    {
+      "producto_id": "P033",
+      "nombre": "Mouse MX Master 3S Logitech",
+      "cantidad": 4,
+      "precio_unitario": 80000
+    }
+  ],
+  "total": 7688000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 126 # 41-85",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0003",
+  "cliente_id": "C011",
+  "fecha": {
+    "$date": "2026-09-17T21:24:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P012",
+      "nombre": "Motorola Moto G84",
+      "cantidad": 1,
+      "precio_unitario": 1602000
+    },
+    {
+      "producto_id": "P005",
+      "nombre": "Apple MacBook Air M3",
+      "cantidad": 2,
+      "precio_unitario": 3684000
+    }
+  ],
+  "total": 8970000,
+  "envio": {
+    "ciudad": "Medellín",
+    "direccion": "Calle 8 # 60-31",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0004",
+  "cliente_id": "C007",
+  "fecha": {
+    "$date": "2026-05-25T21:45:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P033",
+      "nombre": "Mouse MX Master 3S Logitech",
+      "cantidad": 2,
+      "precio_unitario": 80000
+    },
+    {
+      "producto_id": "P034",
+      "nombre": "Teclado Kumara K552 Redragon",
+      "cantidad": 2,
+      "precio_unitario": 323000
+    }
+  ],
+  "total": 806000,
+  "envio": {
+    "ciudad": "Cali",
+    "direccion": "Calle 144 # 87-42",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0005",
+  "cliente_id": "C012",
+  "fecha": {
+    "$date": "2026-03-05T20:52:00.000Z"
+  },
+  "estado": "cancelado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P026",
+      "nombre": "Samsung Odyssey G5",
+      "cantidad": 1,
+      "precio_unitario": 1541000
+    },
+    {
+      "producto_id": "P035",
+      "nombre": "Mouse X200 HP",
+      "cantidad": 2,
+      "precio_unitario": 36000
+    },
+    {
+      "producto_id": "P040",
+      "nombre": "Diadema H390 Logitech",
+      "cantidad": 2,
+      "precio_unitario": 49000
+    }
+  ],
+  "total": 1711000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 9 # 36-39",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0006",
+  "cliente_id": "C027",
+  "fecha": {
+    "$date": "2026-09-23T13:08:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P009",
+      "nombre": "Samsung Galaxy A55",
+      "cantidad": 2,
+      "precio_unitario": 2156000
+    }
+  ],
+  "total": 4312000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 48 # 89-7",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0007",
+  "cliente_id": "C025",
+  "fecha": {
+    "$date": "2026-10-16T16:01:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P010",
+      "nombre": "Xiaomi Redmi Note 13",
+      "cantidad": 2,
+      "precio_unitario": 1127000
+    }
+  ],
+  "total": 2254000,
+  "envio": {
+    "ciudad": "Cartagena",
+    "direccion": "Calle 132 # 47-70",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0008",
+  "cliente_id": "C003",
+  "fecha": {
+    "$date": "2026-09-02T15:00:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P027",
+      "nombre": "Asus TUF VG249",
+      "cantidad": 2,
+      "precio_unitario": 1765000
+    },
+    {
+      "producto_id": "P010",
+      "nombre": "Xiaomi Redmi Note 13",
+      "cantidad": 1,
+      "precio_unitario": 1127000
+    }
+  ],
+  "total": 4657000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 91 # 76-91",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0009",
+  "cliente_id": "C023",
+  "fecha": {
+    "$date": "2026-02-14T18:27:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P022",
+      "nombre": "JBL Charge 5",
+      "cantidad": 2,
+      "precio_unitario": 379000
+    },
+    {
+      "producto_id": "P002",
+      "nombre": "HP Pavilion 15",
+      "cantidad": 1,
+      "precio_unitario": 2604000
+    }
+  ],
+  "total": 3362000,
+  "envio": {
+    "ciudad": "Cartagena",
+    "direccion": "Calle 62 # 29-85",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0010",
+  "cliente_id": "C016",
+  "fecha": {
+    "$date": "2026-09-28T14:46:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P024",
+      "nombre": "Bose SoundLink Flex",
+      "cantidad": 2,
+      "precio_unitario": 905000
+    }
+  ],
+  "total": 1810000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 93 # 91-27",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0011",
+  "cliente_id": "C010",
+  "fecha": {
+    "$date": "2026-04-04T20:05:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P029",
+      "nombre": "LG UltraWide 29",
+      "cantidad": 2,
+      "precio_unitario": 1448000
+    },
+    {
+      "producto_id": "P036",
+      "nombre": "Webcam C920 Logitech",
+      "cantidad": 1,
+      "precio_unitario": 39000
+    },
+    {
+      "producto_id": "P039",
+      "nombre": "Mouse M170 Logitech",
+      "cantidad": 2,
+      "precio_unitario": 378000
+    }
+  ],
+  "total": 3691000,
+  "envio": {
+    "ciudad": "Bogotá",
+    "direccion": "Calle 30 # 23-27",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0012",
+  "cliente_id": "C021",
+  "fecha": {
+    "$date": "2026-05-10T19:23:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P013",
+      "nombre": "Samsung Galaxy S24",
+      "cantidad": 1,
+      "precio_unitario": 4264000
+    },
+    {
+      "producto_id": "P028",
+      "nombre": "Dell P2422H",
+      "cantidad": 1,
+      "precio_unitario": 1948000
+    }
+  ],
+  "total": 6212000,
+  "envio": {
+    "ciudad": "Bogotá",
+    "direccion": "Calle 123 # 67-59",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0013",
+  "cliente_id": "C029",
+  "fecha": {
+    "$date": "2026-03-18T11:22:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P023",
+      "nombre": "Sony SRS-XB13",
+      "cantidad": 2,
+      "precio_unitario": 269000
+    },
+    {
+      "producto_id": "P032",
+      "nombre": "Dell S2721DS",
+      "cantidad": 1,
+      "precio_unitario": 1017000
+    }
+  ],
+  "total": 1555000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 13 # 90-86",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0014",
+  "cliente_id": "C018",
+  "fecha": {
+    "$date": "2026-06-18T21:50:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P017",
+      "nombre": "Sony WH-1000XM5",
+      "cantidad": 2,
+      "precio_unitario": 1225000
+    },
+    {
+      "producto_id": "P006",
+      "nombre": "Lenovo ThinkPad E14",
+      "cantidad": 2,
+      "precio_unitario": 2993000
+    }
+  ],
+  "total": 8436000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 71 # 38-5",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0015",
+  "cliente_id": "C003",
+  "fecha": {
+    "$date": "2026-10-15T17:30:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P003",
+      "nombre": "Asus VivoBook 14",
+      "cantidad": 2,
+      "precio_unitario": 4035000
+    },
+    {
+      "producto_id": "P005",
+      "nombre": "Apple MacBook Air M3",
+      "cantidad": 1,
+      "precio_unitario": 3684000
+    },
+    {
+      "producto_id": "P034",
+      "nombre": "Teclado Kumara K552 Redragon",
+      "cantidad": 4,
+      "precio_unitario": 323000
+    }
+  ],
+  "total": 13046000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 40 # 41-18",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0016",
+  "cliente_id": "C001",
+  "fecha": {
+    "$date": "2026-03-18T21:16:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P026",
+      "nombre": "Samsung Odyssey G5",
+      "cantidad": 1,
+      "precio_unitario": 1541000
+    }
+  ],
+  "total": 1541000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 19 # 97-78",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0017",
+  "cliente_id": "C017",
+  "fecha": {
+    "$date": "2026-05-16T11:20:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P022",
+      "nombre": "JBL Charge 5",
+      "cantidad": 2,
+      "precio_unitario": 379000
+    }
+  ],
+  "total": 758000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 103 # 31-66",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0018",
+  "cliente_id": "C028",
+  "fecha": {
+    "$date": "2026-10-06T15:12:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P027",
+      "nombre": "Asus TUF VG249",
+      "cantidad": 2,
+      "precio_unitario": 1765000
+    },
+    {
+      "producto_id": "P003",
+      "nombre": "Asus VivoBook 14",
+      "cantidad": 1,
+      "precio_unitario": 4035000
+    }
+  ],
+  "total": 7565000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 98 # 62-68",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0019",
+  "cliente_id": "C001",
+  "fecha": {
+    "$date": "2026-03-10T11:55:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P014",
+      "nombre": "Xiaomi Poco X6",
+      "cantidad": 1,
+      "precio_unitario": 770000
+    },
+    {
+      "producto_id": "P025",
+      "nombre": "LG UltraGear 27",
+      "cantidad": 4,
+      "precio_unitario": 619000
+    }
+  ],
+  "total": 3246000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 69 # 99-56",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0020",
+  "cliente_id": "C028",
+  "fecha": {
+    "$date": "2026-04-19T09:35:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P038",
+      "nombre": "Teclado K380 Logitech",
+      "cantidad": 2,
+      "precio_unitario": 45000
+    },
+    {
+      "producto_id": "P002",
+      "nombre": "HP Pavilion 15",
+      "cantidad": 1,
+      "precio_unitario": 2604000
+    },
+    {
+      "producto_id": "P023",
+      "nombre": "Sony SRS-XB13",
+      "cantidad": 3,
+      "precio_unitario": 269000
+    }
+  ],
+  "total": 3501000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 104 # 15-14",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0021",
+  "cliente_id": "C026",
+  "fecha": {
+    "$date": "2026-01-09T20:51:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P026",
+      "nombre": "Samsung Odyssey G5",
+      "cantidad": 1,
+      "precio_unitario": 1541000
+    },
+    {
+      "producto_id": "P001",
+      "nombre": "Lenovo IdeaPad 5",
+      "cantidad": 1,
+      "precio_unitario": 5837000
+    }
+  ],
+  "total": 7378000,
+  "envio": {
+    "ciudad": "Cartagena",
+    "direccion": "Calle 96 # 11-33",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0022",
+  "cliente_id": "C006",
+  "fecha": {
+    "$date": "2026-08-18T18:02:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P014",
+      "nombre": "Xiaomi Poco X6",
+      "cantidad": 1,
+      "precio_unitario": 770000
+    }
+  ],
+  "total": 770000,
+  "envio": {
+    "ciudad": "Medellín",
+    "direccion": "Calle 132 # 81-5",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0023",
+  "cliente_id": "C030",
+  "fecha": {
+    "$date": "2026-05-03T10:41:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P031",
+      "nombre": "Samsung Essential 24",
+      "cantidad": 1,
+      "precio_unitario": 1618000
+    }
+  ],
+  "total": 1618000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 53 # 1-37",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0024",
+  "cliente_id": "C020",
+  "fecha": {
+    "$date": "2026-08-27T08:34:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P003",
+      "nombre": "Asus VivoBook 14",
+      "cantidad": 1,
+      "precio_unitario": 4035000
+    },
+    {
+      "producto_id": "P031",
+      "nombre": "Samsung Essential 24",
+      "cantidad": 1,
+      "precio_unitario": 1618000
+    },
+    {
+      "producto_id": "P017",
+      "nombre": "Sony WH-1000XM5",
+      "cantidad": 1,
+      "precio_unitario": 1225000
+    }
+  ],
+  "total": 6878000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 138 # 51-60",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0025",
+  "cliente_id": "C003",
+  "fecha": {
+    "$date": "2026-07-13T16:05:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P003",
+      "nombre": "Asus VivoBook 14",
+      "cantidad": 1,
+      "precio_unitario": 4035000
+    }
+  ],
+  "total": 4035000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 44 # 31-22",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0026",
+  "cliente_id": "C018",
+  "fecha": {
+    "$date": "2026-07-09T18:41:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P033",
+      "nombre": "Mouse MX Master 3S Logitech",
+      "cantidad": 3,
+      "precio_unitario": 80000
+    }
+  ],
+  "total": 240000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 24 # 3-45",
+    "costo": 15000
+  }
+},
+{
+  "_id": "PED0027",
+  "cliente_id": "C003",
+  "fecha": {
+    "$date": "2026-06-06T15:35:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P009",
+      "nombre": "Samsung Galaxy A55",
+      "cantidad": 1,
+      "precio_unitario": 2156000
+    },
+    {
+      "producto_id": "P037",
+      "nombre": "Base refrigerante Genius",
+      "cantidad": 4,
+      "precio_unitario": 112000
+    },
+    {
+      "producto_id": "P034",
+      "nombre": "Teclado Kumara K552 Redragon",
+      "cantidad": 2,
+      "precio_unitario": 323000
+    }
+  ],
+  "total": 3250000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 1 # 49-12",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0028",
+  "cliente_id": "C023",
+  "fecha": {
+    "$date": "2026-02-24T18:37:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P027",
+      "nombre": "Asus TUF VG249",
+      "cantidad": 2,
+      "precio_unitario": 1765000
+    },
+    {
+      "producto_id": "P037",
+      "nombre": "Base refrigerante Genius",
+      "cantidad": 3,
+      "precio_unitario": 112000
+    }
+  ],
+  "total": 3866000,
+  "envio": {
+    "ciudad": "Cartagena",
+    "direccion": "Calle 61 # 15-49",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0029",
+  "cliente_id": "C029",
+  "fecha": {
+    "$date": "2026-05-24T16:00:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P020",
+      "nombre": "Xiaomi Redmi Buds 5",
+      "cantidad": 1,
+      "precio_unitario": 1308000
+    }
+  ],
+  "total": 1308000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 45 # 92-59",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0030",
+  "cliente_id": "C019",
+  "fecha": {
+    "$date": "2026-03-20T16:59:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P016",
+      "nombre": "Motorola Edge 40",
+      "cantidad": 4,
+      "precio_unitario": 838000
+    }
+  ],
+  "total": 3352000,
+  "envio": {
+    "ciudad": "Cali",
+    "direccion": "Calle 18 # 17-1",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0031",
+  "cliente_id": "C020",
+  "fecha": {
+    "$date": "2026-10-10T10:24:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P020",
+      "nombre": "Xiaomi Redmi Buds 5",
+      "cantidad": 2,
+      "precio_unitario": 1308000
+    },
+    {
+      "producto_id": "P010",
+      "nombre": "Xiaomi Redmi Note 13",
+      "cantidad": 1,
+      "precio_unitario": 1127000
+    },
+    {
+      "producto_id": "P027",
+      "nombre": "Asus TUF VG249",
+      "cantidad": 2,
+      "precio_unitario": 1765000
+    }
+  ],
+  "total": 7273000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 32 # 13-30",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0032",
+  "cliente_id": "C027",
+  "fecha": {
+    "$date": "2026-08-25T15:46:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P029",
+      "nombre": "LG UltraWide 29",
+      "cantidad": 2,
+      "precio_unitario": 1448000
+    },
+    {
+      "producto_id": "P005",
+      "nombre": "Apple MacBook Air M3",
+      "cantidad": 2,
+      "precio_unitario": 3684000
+    }
+  ],
+  "total": 10264000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 115 # 95-80",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0033",
+  "cliente_id": "C014",
+  "fecha": {
+    "$date": "2026-10-18T08:13:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P019",
+      "nombre": "Bose QuietComfort 45",
+      "cantidad": 2,
+      "precio_unitario": 927000
+    },
+    {
+      "producto_id": "P021",
+      "nombre": "JBL Flip 6",
+      "cantidad": 1,
+      "precio_unitario": 101000
+    }
+  ],
+  "total": 1955000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 104 # 29-89",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0034",
+  "cliente_id": "C022",
+  "fecha": {
+    "$date": "2026-03-20T13:41:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P011",
+      "nombre": "Apple iPhone 15",
+      "cantidad": 1,
+      "precio_unitario": 5308000
+    },
+    {
+      "producto_id": "P007",
+      "nombre": "HP Victus 16",
+      "cantidad": 2,
+      "precio_unitario": 5623000
+    }
+  ],
+  "total": 16554000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 54 # 79-71",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0035",
+  "cliente_id": "C010",
+  "fecha": {
+    "$date": "2026-03-17T12:02:00.000Z"
+  },
+  "estado": "cancelado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P035",
+      "nombre": "Mouse X200 HP",
+      "cantidad": 3,
+      "precio_unitario": 36000
+    },
+    {
+      "producto_id": "P025",
+      "nombre": "LG UltraGear 27",
+      "cantidad": 4,
+      "precio_unitario": 619000
+    },
+    {
+      "producto_id": "P017",
+      "nombre": "Sony WH-1000XM5",
+      "cantidad": 1,
+      "precio_unitario": 1225000
+    }
+  ],
+  "total": 3809000,
+  "envio": {
+    "ciudad": "Bogotá",
+    "direccion": "Calle 77 # 22-56",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0036",
+  "cliente_id": "C022",
+  "fecha": {
+    "$date": "2026-01-26T17:32:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P009",
+      "nombre": "Samsung Galaxy A55",
+      "cantidad": 2,
+      "precio_unitario": 2156000
+    },
+    {
+      "producto_id": "P029",
+      "nombre": "LG UltraWide 29",
+      "cantidad": 1,
+      "precio_unitario": 1448000
+    },
+    {
+      "producto_id": "P025",
+      "nombre": "LG UltraGear 27",
+      "cantidad": 3,
+      "precio_unitario": 619000
+    }
+  ],
+  "total": 7617000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 106 # 29-89",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0037",
+  "cliente_id": "C021",
+  "fecha": {
+    "$date": "2026-09-08T08:26:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P033",
+      "nombre": "Mouse MX Master 3S Logitech",
+      "cantidad": 3,
+      "precio_unitario": 80000
+    },
+    {
+      "producto_id": "P019",
+      "nombre": "Bose QuietComfort 45",
+      "cantidad": 3,
+      "precio_unitario": 927000
+    },
+    {
+      "producto_id": "P040",
+      "nombre": "Diadema H390 Logitech",
+      "cantidad": 4,
+      "precio_unitario": 49000
+    }
+  ],
+  "total": 3217000,
+  "envio": {
+    "ciudad": "Bogotá",
+    "direccion": "Calle 100 # 80-47",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0038",
+  "cliente_id": "C028",
+  "fecha": {
+    "$date": "2026-06-28T19:55:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P036",
+      "nombre": "Webcam C920 Logitech",
+      "cantidad": 4,
+      "precio_unitario": 39000
+    }
+  ],
+  "total": 156000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 61 # 28-23",
+    "costo": 15000
+  }
+},
+{
+  "_id": "PED0039",
+  "cliente_id": "C016",
+  "fecha": {
+    "$date": "2026-01-18T09:06:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P026",
+      "nombre": "Samsung Odyssey G5",
+      "cantidad": 2,
+      "precio_unitario": 1541000
+    },
+    {
+      "producto_id": "P031",
+      "nombre": "Samsung Essential 24",
+      "cantidad": 1,
+      "precio_unitario": 1618000
+    },
+    {
+      "producto_id": "P011",
+      "nombre": "Apple iPhone 15",
+      "cantidad": 2,
+      "precio_unitario": 5308000
+    }
+  ],
+  "total": 15316000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 102 # 16-59",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0040",
+  "cliente_id": "C020",
+  "fecha": {
+    "$date": "2026-06-10T08:06:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P034",
+      "nombre": "Teclado Kumara K552 Redragon",
+      "cantidad": 4,
+      "precio_unitario": 323000
+    },
+    {
+      "producto_id": "P007",
+      "nombre": "HP Victus 16",
+      "cantidad": 1,
+      "precio_unitario": 5623000
+    }
+  ],
+  "total": 6915000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 39 # 59-81",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0041",
+  "cliente_id": "C014",
+  "fecha": {
+    "$date": "2026-09-28T15:21:00.000Z"
+  },
+  "estado": "cancelado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P007",
+      "nombre": "HP Victus 16",
+      "cantidad": 1,
+      "precio_unitario": 5623000
+    }
+  ],
+  "total": 5623000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 32 # 12-45",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0042",
+  "cliente_id": "C008",
+  "fecha": {
+    "$date": "2026-02-18T20:27:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P029",
+      "nombre": "LG UltraWide 29",
+      "cantidad": 2,
+      "precio_unitario": 1448000
+    }
+  ],
+  "total": 2896000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 6 # 88-60",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0043",
+  "cliente_id": "C014",
+  "fecha": {
+    "$date": "2026-01-15T15:22:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P029",
+      "nombre": "LG UltraWide 29",
+      "cantidad": 2,
+      "precio_unitario": 1448000
+    }
+  ],
+  "total": 2896000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 105 # 24-55",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0044",
+  "cliente_id": "C021",
+  "fecha": {
+    "$date": "2026-07-04T13:10:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P017",
+      "nombre": "Sony WH-1000XM5",
+      "cantidad": 1,
+      "precio_unitario": 1225000
+    }
+  ],
+  "total": 1225000,
+  "envio": {
+    "ciudad": "Bogotá",
+    "direccion": "Calle 79 # 34-56",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0045",
+  "cliente_id": "C026",
+  "fecha": {
+    "$date": "2026-02-14T18:05:00.000Z"
+  },
+  "estado": "cancelado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P015",
+      "nombre": "Apple iPhone 14",
+      "cantidad": 2,
+      "precio_unitario": 5450000
+    }
+  ],
+  "total": 10900000,
+  "envio": {
+    "ciudad": "Cartagena",
+    "direccion": "Calle 82 # 55-79",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0046",
+  "cliente_id": "C028",
+  "fecha": {
+    "$date": "2026-01-18T17:16:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P020",
+      "nombre": "Xiaomi Redmi Buds 5",
+      "cantidad": 1,
+      "precio_unitario": 1308000
+    },
+    {
+      "producto_id": "P015",
+      "nombre": "Apple iPhone 14",
+      "cantidad": 2,
+      "precio_unitario": 5450000
+    },
+    {
+      "producto_id": "P039",
+      "nombre": "Mouse M170 Logitech",
+      "cantidad": 3,
+      "precio_unitario": 378000
+    }
+  ],
+  "total": 13342000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 75 # 53-95",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0047",
+  "cliente_id": "C028",
+  "fecha": {
+    "$date": "2026-06-27T16:19:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P014",
+      "nombre": "Xiaomi Poco X6",
+      "cantidad": 4,
+      "precio_unitario": 770000
+    },
+    {
+      "producto_id": "P038",
+      "nombre": "Teclado K380 Logitech",
+      "cantidad": 2,
+      "precio_unitario": 45000
+    }
+  ],
+  "total": 3170000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 29 # 78-32",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0048",
+  "cliente_id": "C001",
+  "fecha": {
+    "$date": "2026-06-24T18:07:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P039",
+      "nombre": "Mouse M170 Logitech",
+      "cantidad": 3,
+      "precio_unitario": 378000
+    }
+  ],
+  "total": 1134000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 109 # 79-60",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0049",
+  "cliente_id": "C020",
+  "fecha": {
+    "$date": "2026-10-11T17:24:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P007",
+      "nombre": "HP Victus 16",
+      "cantidad": 2,
+      "precio_unitario": 5623000
+    },
+    {
+      "producto_id": "P024",
+      "nombre": "Bose SoundLink Flex",
+      "cantidad": 4,
+      "precio_unitario": 905000
+    }
+  ],
+  "total": 14866000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 92 # 50-95",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0050",
+  "cliente_id": "C012",
+  "fecha": {
+    "$date": "2026-08-02T17:01:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P031",
+      "nombre": "Samsung Essential 24",
+      "cantidad": 2,
+      "precio_unitario": 1618000
+    },
+    {
+      "producto_id": "P001",
+      "nombre": "Lenovo IdeaPad 5",
+      "cantidad": 2,
+      "precio_unitario": 5837000
+    }
+  ],
+  "total": 14910000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 30 # 99-43",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0051",
+  "cliente_id": "C014",
+  "fecha": {
+    "$date": "2026-04-07T08:04:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P025",
+      "nombre": "LG UltraGear 27",
+      "cantidad": 3,
+      "precio_unitario": 619000
+    },
+    {
+      "producto_id": "P020",
+      "nombre": "Xiaomi Redmi Buds 5",
+      "cantidad": 1,
+      "precio_unitario": 1308000
+    }
+  ],
+  "total": 3165000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 13 # 91-47",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0052",
+  "cliente_id": "C030",
+  "fecha": {
+    "$date": "2026-02-28T14:14:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P035",
+      "nombre": "Mouse X200 HP",
+      "cantidad": 1,
+      "precio_unitario": 36000
+    },
+    {
+      "producto_id": "P030",
+      "nombre": "Asus ProArt PA248",
+      "cantidad": 2,
+      "precio_unitario": 1962000
+    },
+    {
+      "producto_id": "P007",
+      "nombre": "HP Victus 16",
+      "cantidad": 1,
+      "precio_unitario": 5623000
+    }
+  ],
+  "total": 9583000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 27 # 10-76",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0053",
+  "cliente_id": "C028",
+  "fecha": {
+    "$date": "2026-07-12T16:43:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P025",
+      "nombre": "LG UltraGear 27",
+      "cantidad": 4,
+      "precio_unitario": 619000
+    },
+    {
+      "producto_id": "P003",
+      "nombre": "Asus VivoBook 14",
+      "cantidad": 1,
+      "precio_unitario": 4035000
+    },
+    {
+      "producto_id": "P009",
+      "nombre": "Samsung Galaxy A55",
+      "cantidad": 2,
+      "precio_unitario": 2156000
+    }
+  ],
+  "total": 10823000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 14 # 54-40",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0054",
+  "cliente_id": "C005",
+  "fecha": {
+    "$date": "2026-02-15T17:26:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P035",
+      "nombre": "Mouse X200 HP",
+      "cantidad": 4,
+      "precio_unitario": 36000
+    },
+    {
+      "producto_id": "P011",
+      "nombre": "Apple iPhone 15",
+      "cantidad": 1,
+      "precio_unitario": 5308000
+    }
+  ],
+  "total": 5452000,
+  "envio": {
+    "ciudad": "Pereira",
+    "direccion": "Calle 38 # 1-37",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0055",
+  "cliente_id": "C025",
+  "fecha": {
+    "$date": "2026-04-09T19:29:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P009",
+      "nombre": "Samsung Galaxy A55",
+      "cantidad": 2,
+      "precio_unitario": 2156000
+    }
+  ],
+  "total": 4312000,
+  "envio": {
+    "ciudad": "Cartagena",
+    "direccion": "Calle 53 # 42-21",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0056",
+  "cliente_id": "C025",
+  "fecha": {
+    "$date": "2026-02-12T14:04:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P019",
+      "nombre": "Bose QuietComfort 45",
+      "cantidad": 2,
+      "precio_unitario": 927000
+    },
+    {
+      "producto_id": "P002",
+      "nombre": "HP Pavilion 15",
+      "cantidad": 2,
+      "precio_unitario": 2604000
+    },
+    {
+      "producto_id": "P007",
+      "nombre": "HP Victus 16",
+      "cantidad": 2,
+      "precio_unitario": 5623000
+    }
+  ],
+  "total": 18308000,
+  "envio": {
+    "ciudad": "Cartagena",
+    "direccion": "Calle 148 # 86-12",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0057",
+  "cliente_id": "C009",
+  "fecha": {
+    "$date": "2026-09-18T09:52:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P015",
+      "nombre": "Apple iPhone 14",
+      "cantidad": 2,
+      "precio_unitario": 5450000
+    },
+    {
+      "producto_id": "P013",
+      "nombre": "Samsung Galaxy S24",
+      "cantidad": 1,
+      "precio_unitario": 4264000
+    },
+    {
+      "producto_id": "P022",
+      "nombre": "JBL Charge 5",
+      "cantidad": 3,
+      "precio_unitario": 379000
+    }
+  ],
+  "total": 16301000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 58 # 60-72",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0058",
+  "cliente_id": "C012",
+  "fecha": {
+    "$date": "2026-04-18T12:43:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P011",
+      "nombre": "Apple iPhone 15",
+      "cantidad": 1,
+      "precio_unitario": 5308000
+    }
+  ],
+  "total": 5308000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 65 # 76-83",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0059",
+  "cliente_id": "C016",
+  "fecha": {
+    "$date": "2026-02-21T17:08:00.000Z"
+  },
+  "estado": "cancelado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P013",
+      "nombre": "Samsung Galaxy S24",
+      "cantidad": 2,
+      "precio_unitario": 4264000
+    },
+    {
+      "producto_id": "P012",
+      "nombre": "Motorola Moto G84",
+      "cantidad": 2,
+      "precio_unitario": 1602000
+    }
+  ],
+  "total": 11732000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 137 # 7-72",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0060",
+  "cliente_id": "C012",
+  "fecha": {
+    "$date": "2026-01-10T10:17:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P018",
+      "nombre": "JBL Tune 520BT",
+      "cantidad": 2,
+      "precio_unitario": 1454000
+    }
+  ],
+  "total": 2908000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 27 # 27-40",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0061",
+  "cliente_id": "C004",
+  "fecha": {
+    "$date": "2026-05-10T10:44:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P027",
+      "nombre": "Asus TUF VG249",
+      "cantidad": 2,
+      "precio_unitario": 1765000
+    },
+    {
+      "producto_id": "P005",
+      "nombre": "Apple MacBook Air M3",
+      "cantidad": 2,
+      "precio_unitario": 3684000
+    }
+  ],
+  "total": 10898000,
+  "envio": {
+    "ciudad": "Medellín",
+    "direccion": "Calle 75 # 97-56",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0062",
+  "cliente_id": "C003",
+  "fecha": {
+    "$date": "2026-01-11T11:01:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P013",
+      "nombre": "Samsung Galaxy S24",
+      "cantidad": 1,
+      "precio_unitario": 4264000
+    }
+  ],
+  "total": 4264000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 65 # 64-67",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0063",
+  "cliente_id": "C027",
+  "fecha": {
+    "$date": "2026-06-27T18:36:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P022",
+      "nombre": "JBL Charge 5",
+      "cantidad": 2,
+      "precio_unitario": 379000
+    },
+    {
+      "producto_id": "P035",
+      "nombre": "Mouse X200 HP",
+      "cantidad": 1,
+      "precio_unitario": 36000
+    }
+  ],
+  "total": 794000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 110 # 8-81",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0064",
+  "cliente_id": "C021",
+  "fecha": {
+    "$date": "2026-07-18T21:48:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P024",
+      "nombre": "Bose SoundLink Flex",
+      "cantidad": 3,
+      "precio_unitario": 905000
+    },
+    {
+      "producto_id": "P013",
+      "nombre": "Samsung Galaxy S24",
+      "cantidad": 2,
+      "precio_unitario": 4264000
+    }
+  ],
+  "total": 11243000,
+  "envio": {
+    "ciudad": "Bogotá",
+    "direccion": "Calle 111 # 60-88",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0065",
+  "cliente_id": "C002",
+  "fecha": {
+    "$date": "2026-02-23T18:55:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P039",
+      "nombre": "Mouse M170 Logitech",
+      "cantidad": 2,
+      "precio_unitario": 378000
+    },
+    {
+      "producto_id": "P003",
+      "nombre": "Asus VivoBook 14",
+      "cantidad": 2,
+      "precio_unitario": 4035000
+    },
+    {
+      "producto_id": "P031",
+      "nombre": "Samsung Essential 24",
+      "cantidad": 2,
+      "precio_unitario": 1618000
+    }
+  ],
+  "total": 12062000,
+  "envio": {
+    "ciudad": "Pereira",
+    "direccion": "Calle 68 # 16-32",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0066",
+  "cliente_id": "C014",
+  "fecha": {
+    "$date": "2026-04-15T18:00:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P014",
+      "nombre": "Xiaomi Poco X6",
+      "cantidad": 3,
+      "precio_unitario": 770000
+    }
+  ],
+  "total": 2310000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 136 # 61-45",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0067",
+  "cliente_id": "C006",
+  "fecha": {
+    "$date": "2026-05-25T14:18:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P009",
+      "nombre": "Samsung Galaxy A55",
+      "cantidad": 2,
+      "precio_unitario": 2156000
+    },
+    {
+      "producto_id": "P013",
+      "nombre": "Samsung Galaxy S24",
+      "cantidad": 1,
+      "precio_unitario": 4264000
+    }
+  ],
+  "total": 8576000,
+  "envio": {
+    "ciudad": "Medellín",
+    "direccion": "Calle 143 # 56-26",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0068",
+  "cliente_id": "C003",
+  "fecha": {
+    "$date": "2026-05-25T13:45:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P025",
+      "nombre": "LG UltraGear 27",
+      "cantidad": 2,
+      "precio_unitario": 619000
+    },
+    {
+      "producto_id": "P024",
+      "nombre": "Bose SoundLink Flex",
+      "cantidad": 4,
+      "precio_unitario": 905000
+    }
+  ],
+  "total": 4858000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 141 # 12-25",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0069",
+  "cliente_id": "C024",
+  "fecha": {
+    "$date": "2026-04-24T20:14:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P012",
+      "nombre": "Motorola Moto G84",
+      "cantidad": 2,
+      "precio_unitario": 1602000
+    },
+    {
+      "producto_id": "P006",
+      "nombre": "Lenovo ThinkPad E14",
+      "cantidad": 1,
+      "precio_unitario": 2993000
+    }
+  ],
+  "total": 6197000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 120 # 59-6",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0070",
+  "cliente_id": "C009",
+  "fecha": {
+    "$date": "2026-02-25T14:56:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P019",
+      "nombre": "Bose QuietComfort 45",
+      "cantidad": 3,
+      "precio_unitario": 927000
+    },
+    {
+      "producto_id": "P006",
+      "nombre": "Lenovo ThinkPad E14",
+      "cantidad": 2,
+      "precio_unitario": 2993000
+    },
+    {
+      "producto_id": "P003",
+      "nombre": "Asus VivoBook 14",
+      "cantidad": 2,
+      "precio_unitario": 4035000
+    }
+  ],
+  "total": 16837000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 81 # 54-12",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0071",
+  "cliente_id": "C004",
+  "fecha": {
+    "$date": "2026-10-11T11:16:00.000Z"
+  },
+  "estado": "cancelado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P018",
+      "nombre": "JBL Tune 520BT",
+      "cantidad": 1,
+      "precio_unitario": 1454000
+    },
+    {
+      "producto_id": "P008",
+      "nombre": "Asus ZenBook 14",
+      "cantidad": 1,
+      "precio_unitario": 4553000
+    },
+    {
+      "producto_id": "P004",
+      "nombre": "Dell Inspiron 3520",
+      "cantidad": 2,
+      "precio_unitario": 2860000
+    }
+  ],
+  "total": 11727000,
+  "envio": {
+    "ciudad": "Medellín",
+    "direccion": "Calle 4 # 87-37",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0072",
+  "cliente_id": "C030",
+  "fecha": {
+    "$date": "2026-08-09T15:33:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P037",
+      "nombre": "Base refrigerante Genius",
+      "cantidad": 3,
+      "precio_unitario": 112000
+    }
+  ],
+  "total": 336000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 69 # 35-51",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0073",
+  "cliente_id": "C001",
+  "fecha": {
+    "$date": "2026-10-12T14:48:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P026",
+      "nombre": "Samsung Odyssey G5",
+      "cantidad": 1,
+      "precio_unitario": 1541000
+    }
+  ],
+  "total": 1541000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 144 # 1-9",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0074",
+  "cliente_id": "C002",
+  "fecha": {
+    "$date": "2026-03-01T08:31:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P003",
+      "nombre": "Asus VivoBook 14",
+      "cantidad": 2,
+      "precio_unitario": 4035000
+    }
+  ],
+  "total": 8070000,
+  "envio": {
+    "ciudad": "Pereira",
+    "direccion": "Calle 28 # 57-99",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0075",
+  "cliente_id": "C002",
+  "fecha": {
+    "$date": "2026-08-07T11:02:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P039",
+      "nombre": "Mouse M170 Logitech",
+      "cantidad": 2,
+      "precio_unitario": 378000
+    }
+  ],
+  "total": 756000,
+  "envio": {
+    "ciudad": "Pereira",
+    "direccion": "Calle 9 # 26-5",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0076",
+  "cliente_id": "C010",
+  "fecha": {
+    "$date": "2026-02-04T12:25:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P033",
+      "nombre": "Mouse MX Master 3S Logitech",
+      "cantidad": 1,
+      "precio_unitario": 80000
+    },
+    {
+      "producto_id": "P031",
+      "nombre": "Samsung Essential 24",
+      "cantidad": 2,
+      "precio_unitario": 1618000
+    },
+    {
+      "producto_id": "P029",
+      "nombre": "LG UltraWide 29",
+      "cantidad": 2,
+      "precio_unitario": 1448000
+    }
+  ],
+  "total": 6212000,
+  "envio": {
+    "ciudad": "Bogotá",
+    "direccion": "Calle 22 # 11-1",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0077",
+  "cliente_id": "C006",
+  "fecha": {
+    "$date": "2026-01-02T21:19:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P016",
+      "nombre": "Motorola Edge 40",
+      "cantidad": 2,
+      "precio_unitario": 838000
+    }
+  ],
+  "total": 1676000,
+  "envio": {
+    "ciudad": "Medellín",
+    "direccion": "Calle 1 # 1-40",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0078",
+  "cliente_id": "C006",
+  "fecha": {
+    "$date": "2026-08-04T13:58:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P013",
+      "nombre": "Samsung Galaxy S24",
+      "cantidad": 1,
+      "precio_unitario": 4264000
+    },
+    {
+      "producto_id": "P029",
+      "nombre": "LG UltraWide 29",
+      "cantidad": 2,
+      "precio_unitario": 1448000
+    }
+  ],
+  "total": 7160000,
+  "envio": {
+    "ciudad": "Medellín",
+    "direccion": "Calle 63 # 6-11",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0079",
+  "cliente_id": "C029",
+  "fecha": {
+    "$date": "2026-01-17T19:05:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P027",
+      "nombre": "Asus TUF VG249",
+      "cantidad": 2,
+      "precio_unitario": 1765000
+    }
+  ],
+  "total": 3530000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 122 # 3-44",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0080",
+  "cliente_id": "C026",
+  "fecha": {
+    "$date": "2026-10-28T16:04:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P039",
+      "nombre": "Mouse M170 Logitech",
+      "cantidad": 2,
+      "precio_unitario": 378000
+    },
+    {
+      "producto_id": "P012",
+      "nombre": "Motorola Moto G84",
+      "cantidad": 1,
+      "precio_unitario": 1602000
+    }
+  ],
+  "total": 2358000,
+  "envio": {
+    "ciudad": "Cartagena",
+    "direccion": "Calle 126 # 8-17",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0081",
+  "cliente_id": "C016",
+  "fecha": {
+    "$date": "2026-03-27T17:55:00.000Z"
+  },
+  "estado": "cancelado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P007",
+      "nombre": "HP Victus 16",
+      "cantidad": 1,
+      "precio_unitario": 5623000
+    },
+    {
+      "producto_id": "P033",
+      "nombre": "Mouse MX Master 3S Logitech",
+      "cantidad": 3,
+      "precio_unitario": 80000
+    },
+    {
+      "producto_id": "P027",
+      "nombre": "Asus TUF VG249",
+      "cantidad": 1,
+      "precio_unitario": 1765000
+    }
+  ],
+  "total": 7628000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 75 # 63-3",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0082",
+  "cliente_id": "C022",
+  "fecha": {
+    "$date": "2026-09-11T08:27:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P031",
+      "nombre": "Samsung Essential 24",
+      "cantidad": 2,
+      "precio_unitario": 1618000
+    },
+    {
+      "producto_id": "P022",
+      "nombre": "JBL Charge 5",
+      "cantidad": 3,
+      "precio_unitario": 379000
+    }
+  ],
+  "total": 4373000,
+  "envio": {
+    "ciudad": "Barranquilla",
+    "direccion": "Calle 85 # 13-51",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0083",
+  "cliente_id": "C016",
+  "fecha": {
+    "$date": "2026-04-09T16:46:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P034",
+      "nombre": "Teclado Kumara K552 Redragon",
+      "cantidad": 3,
+      "precio_unitario": 323000
+    },
+    {
+      "producto_id": "P010",
+      "nombre": "Xiaomi Redmi Note 13",
+      "cantidad": 2,
+      "precio_unitario": 1127000
+    }
+  ],
+  "total": 3223000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 69 # 16-59",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0084",
+  "cliente_id": "C029",
+  "fecha": {
+    "$date": "2026-03-17T20:10:00.000Z"
+  },
+  "estado": "cancelado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P011",
+      "nombre": "Apple iPhone 15",
+      "cantidad": 1,
+      "precio_unitario": 5308000
+    },
+    {
+      "producto_id": "P025",
+      "nombre": "LG UltraGear 27",
+      "cantidad": 4,
+      "precio_unitario": 619000
+    },
+    {
+      "producto_id": "P017",
+      "nombre": "Sony WH-1000XM5",
+      "cantidad": 2,
+      "precio_unitario": 1225000
+    }
+  ],
+  "total": 10234000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 45 # 2-68",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0085",
+  "cliente_id": "C024",
+  "fecha": {
+    "$date": "2026-03-13T10:33:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P009",
+      "nombre": "Samsung Galaxy A55",
+      "cantidad": 1,
+      "precio_unitario": 2156000
+    },
+    {
+      "producto_id": "P020",
+      "nombre": "Xiaomi Redmi Buds 5",
+      "cantidad": 1,
+      "precio_unitario": 1308000
+    },
+    {
+      "producto_id": "P010",
+      "nombre": "Xiaomi Redmi Note 13",
+      "cantidad": 2,
+      "precio_unitario": 1127000
+    }
+  ],
+  "total": 5718000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 7 # 88-77",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0086",
+  "cliente_id": "C021",
+  "fecha": {
+    "$date": "2026-01-10T09:20:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P024",
+      "nombre": "Bose SoundLink Flex",
+      "cantidad": 1,
+      "precio_unitario": 905000
+    },
+    {
+      "producto_id": "P003",
+      "nombre": "Asus VivoBook 14",
+      "cantidad": 1,
+      "precio_unitario": 4035000
+    },
+    {
+      "producto_id": "P025",
+      "nombre": "LG UltraGear 27",
+      "cantidad": 4,
+      "precio_unitario": 619000
+    }
+  ],
+  "total": 7416000,
+  "envio": {
+    "ciudad": "Bogotá",
+    "direccion": "Calle 138 # 7-14",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0087",
+  "cliente_id": "C008",
+  "fecha": {
+    "$date": "2026-03-13T17:23:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P010",
+      "nombre": "Xiaomi Redmi Note 13",
+      "cantidad": 2,
+      "precio_unitario": 1127000
+    }
+  ],
+  "total": 2254000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 121 # 68-18",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0088",
+  "cliente_id": "C030",
+  "fecha": {
+    "$date": "2026-10-13T18:06:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P026",
+      "nombre": "Samsung Odyssey G5",
+      "cantidad": 1,
+      "precio_unitario": 1541000
+    },
+    {
+      "producto_id": "P003",
+      "nombre": "Asus VivoBook 14",
+      "cantidad": 1,
+      "precio_unitario": 4035000
+    }
+  ],
+  "total": 5576000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 49 # 68-45",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0089",
+  "cliente_id": "C013",
+  "fecha": {
+    "$date": "2026-01-06T10:13:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P030",
+      "nombre": "Asus ProArt PA248",
+      "cantidad": 1,
+      "precio_unitario": 1962000
+    }
+  ],
+  "total": 1962000,
+  "envio": {
+    "ciudad": "Cartagena",
+    "direccion": "Calle 149 # 51-77",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0090",
+  "cliente_id": "C029",
+  "fecha": {
+    "$date": "2026-08-10T20:25:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P014",
+      "nombre": "Xiaomi Poco X6",
+      "cantidad": 2,
+      "precio_unitario": 770000
+    },
+    {
+      "producto_id": "P017",
+      "nombre": "Sony WH-1000XM5",
+      "cantidad": 1,
+      "precio_unitario": 1225000
+    }
+  ],
+  "total": 2765000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 9 # 9-26",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0091",
+  "cliente_id": "C028",
+  "fecha": {
+    "$date": "2026-08-03T19:45:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P024",
+      "nombre": "Bose SoundLink Flex",
+      "cantidad": 1,
+      "precio_unitario": 905000
+    },
+    {
+      "producto_id": "P008",
+      "nombre": "Asus ZenBook 14",
+      "cantidad": 2,
+      "precio_unitario": 4553000
+    },
+    {
+      "producto_id": "P004",
+      "nombre": "Dell Inspiron 3520",
+      "cantidad": 1,
+      "precio_unitario": 2860000
+    }
+  ],
+  "total": 12871000,
+  "envio": {
+    "ciudad": "Bucaramanga",
+    "direccion": "Calle 32 # 22-98",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0092",
+  "cliente_id": "C030",
+  "fecha": {
+    "$date": "2026-07-11T16:23:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P015",
+      "nombre": "Apple iPhone 14",
+      "cantidad": 2,
+      "precio_unitario": 5450000
+    },
+    {
+      "producto_id": "P016",
+      "nombre": "Motorola Edge 40",
+      "cantidad": 1,
+      "precio_unitario": 838000
+    }
+  ],
+  "total": 11738000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 140 # 3-99",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0093",
+  "cliente_id": "C004",
+  "fecha": {
+    "$date": "2026-02-02T11:58:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P017",
+      "nombre": "Sony WH-1000XM5",
+      "cantidad": 1,
+      "precio_unitario": 1225000
+    },
+    {
+      "producto_id": "P014",
+      "nombre": "Xiaomi Poco X6",
+      "cantidad": 4,
+      "precio_unitario": 770000
+    }
+  ],
+  "total": 4305000,
+  "envio": {
+    "ciudad": "Medellín",
+    "direccion": "Calle 46 # 45-1",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0094",
+  "cliente_id": "C006",
+  "fecha": {
+    "$date": "2026-01-12T19:07:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P023",
+      "nombre": "Sony SRS-XB13",
+      "cantidad": 2,
+      "precio_unitario": 269000
+    }
+  ],
+  "total": 538000,
+  "envio": {
+    "ciudad": "Medellín",
+    "direccion": "Calle 137 # 18-77",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0095",
+  "cliente_id": "C021",
+  "fecha": {
+    "$date": "2026-02-19T08:55:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P008",
+      "nombre": "Asus ZenBook 14",
+      "cantidad": 1,
+      "precio_unitario": 4553000
+    },
+    {
+      "producto_id": "P033",
+      "nombre": "Mouse MX Master 3S Logitech",
+      "cantidad": 3,
+      "precio_unitario": 80000
+    }
+  ],
+  "total": 4793000,
+  "envio": {
+    "ciudad": "Bogotá",
+    "direccion": "Calle 55 # 66-52",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0096",
+  "cliente_id": "C024",
+  "fecha": {
+    "$date": "2026-03-06T11:44:00.000Z"
+  },
+  "estado": "pendiente",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P005",
+      "nombre": "Apple MacBook Air M3",
+      "cantidad": 1,
+      "precio_unitario": 3684000
+    },
+    {
+      "producto_id": "P015",
+      "nombre": "Apple iPhone 14",
+      "cantidad": 1,
+      "precio_unitario": 5450000
+    },
+    {
+      "producto_id": "P024",
+      "nombre": "Bose SoundLink Flex",
+      "cantidad": 2,
+      "precio_unitario": 905000
+    }
+  ],
+  "total": 10944000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 53 # 63-69",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0097",
+  "cliente_id": "C015",
+  "fecha": {
+    "$date": "2026-06-10T10:18:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "contraentrega",
+  "items": [
+    {
+      "producto_id": "P026",
+      "nombre": "Samsung Odyssey G5",
+      "cantidad": 2,
+      "precio_unitario": 1541000
+    },
+    {
+      "producto_id": "P003",
+      "nombre": "Asus VivoBook 14",
+      "cantidad": 1,
+      "precio_unitario": 4035000
+    }
+  ],
+  "total": 7117000,
+  "envio": {
+    "ciudad": "Bogotá",
+    "direccion": "Calle 74 # 87-20",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0098",
+  "cliente_id": "C009",
+  "fecha": {
+    "$date": "2026-05-27T09:40:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "Nequi",
+  "items": [
+    {
+      "producto_id": "P029",
+      "nombre": "LG UltraWide 29",
+      "cantidad": 2,
+      "precio_unitario": 1448000
+    }
+  ],
+  "total": 2896000,
+  "envio": {
+    "ciudad": "Manizales",
+    "direccion": "Calle 80 # 33-94",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0099",
+  "cliente_id": "C021",
+  "fecha": {
+    "$date": "2026-02-08T17:14:00.000Z"
+  },
+  "estado": "enviado",
+  "metodo_pago": "tarjeta crédito",
+  "items": [
+    {
+      "producto_id": "P026",
+      "nombre": "Samsung Odyssey G5",
+      "cantidad": 2,
+      "precio_unitario": 1541000
+    },
+    {
+      "producto_id": "P003",
+      "nombre": "Asus VivoBook 14",
+      "cantidad": 2,
+      "precio_unitario": 4035000
+    }
+  ],
+  "total": 11152000,
+  "envio": {
+    "ciudad": "Bogotá",
+    "direccion": "Calle 93 # 44-3",
+    "costo": 0
+  }
+},
+{
+  "_id": "PED0100",
+  "cliente_id": "C010",
+  "fecha": {
+    "$date": "2026-06-14T12:44:00.000Z"
+  },
+  "estado": "entregado",
+  "metodo_pago": "PSE",
+  "items": [
+    {
+      "producto_id": "P026",
+      "nombre": "Samsung Odyssey G5",
+      "cantidad": 1,
+      "precio_unitario": 1541000
+    },
+    {
+      "producto_id": "P024",
+      "nombre": "Bose SoundLink Flex",
+      "cantidad": 4,
+      "precio_unitario": 905000
+    },
+    {
+      "producto_id": "P030",
+      "nombre": "Asus ProArt PA248",
+      "cantidad": 1,
+      "precio_unitario": 1962000
+    }
+  ],
+  "total": 7123000,
+  "envio": {
+    "ciudad": "Bogotá",
+    "direccion": "Calle 53 # 66-60",
+    "costo": 0
+  }
+}]
